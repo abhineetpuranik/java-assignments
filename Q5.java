@@ -1,0 +1,10 @@
+import java.util.Scanner;
+public class Q5 {
+    public static void main(String[] args) {
+    Scanner sc=new Scanner(System.in);
+    System.out.println("Enter distance in miles");
+    double m=sc.nextDouble();
+    double km= m*1.609;
+    System.out.println("Distance in Kilometres: " + km);
+    }
+}
