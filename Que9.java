@@ -1,4 +1,4 @@
-public class Q9 {
+public class Que9 {
     static long fact(int n){
         if(n==0){
             return 1;

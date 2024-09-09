@@ -1,4 +1,4 @@
-public class Q11 {
+public class Que11 {
     public static void main(String[] args) {
         int n=1234;
         int rev=0;

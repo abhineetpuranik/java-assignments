@@ -1,4 +1,4 @@
-public class Q7 {
+public class Que7 {
     public static void main(String[] args) {
         int grades=93;
         if(grades>=90){

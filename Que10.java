@@ -1,4 +1,4 @@
-public class Q10 {
+public class Que10 {
     static int fib(int n){
         if(n<=1){
             return n;

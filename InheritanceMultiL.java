@@ -7,7 +7,7 @@ class Dog extends Animal{
 class Pup extends Dog{
     void weep(){System.out.println("weeping");}
 }
-class InheritanceMulti{
+class InheritanceMultiL{
     public static void main(String[] args) {
         Pup p=new Pup();
         p.weep();

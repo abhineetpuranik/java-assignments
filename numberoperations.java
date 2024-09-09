@@ -5,9 +5,11 @@ public class numberoperations {
             if(a%i==0){
                 System.out.println("the number is not a prime number.");
                 break;
-        } else { System.out.println(" prime number");
-    break; }
-}
+        } else{ 
+            System.out.println(" prime number");
+             break; 
+        }
+    }
 
     if(a%2==0){
     System.out.println("it is a even number");

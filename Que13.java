@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q13 {
+public class Que13 {
     public static void main(String[] args) {
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter range of natural numbers:");

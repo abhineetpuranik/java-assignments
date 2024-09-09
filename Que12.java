@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Q12 {
+public class Que12 {
     void app(){
         int m,p,c;
         Scanner sc=new Scanner(System.in);
@@ -16,7 +16,7 @@ public class Q12 {
         }
     }
     public static void main(String[] args) {
-        Q12 a1=new Q12();
+        Que12 a1=new Que12();
         a1.app();
     }
 }
